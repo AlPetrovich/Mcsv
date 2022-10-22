@@ -17,7 +17,7 @@
 
     <modules>
         <module>msvc-users</module>
-        <module>msvc.courses</module>
+        <module>msvc-courses</module>
     </modules>
 
     <properties>
